@@ -1,0 +1,92 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("Flaticon.eot");
+  src: url("Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("Flaticon.woff") format("woff"),
+       url("Flaticon.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+font-style: normal;
+}
+
+.flaticon-teddy-bear:before { content: "\f100"; }
+.flaticon-pencils:before { content: "\f101"; }
+.flaticon-classroom:before { content: "\f102"; }
+.flaticon-classroom-1:before { content: "\f103"; }
+.flaticon-block-with-letters:before { content: "\f104"; }
+.flaticon-kindergarten:before { content: "\f105"; }
+.flaticon-boy:before { content: "\f106"; }
+.flaticon-puzzle:before { content: "\f107"; }
+.flaticon-girl:before { content: "\f108"; }
+.flaticon-balloon-playing:before { content: "\f109"; }
+.flaticon-children:before { content: "\f10a"; }
+.flaticon-kids:before { content: "\f10b"; }
+.flaticon-jumping-rope:before { content: "\f10c"; }
+.flaticon-football:before { content: "\f10d"; }
+.flaticon-flowers:before { content: "\f10e"; }
+.flaticon-swing:before { content: "\f10f"; }
+.flaticon-clamber:before { content: "\f110"; }
+.flaticon-sand-box:before { content: "\f111"; }
+.flaticon-bicycle:before { content: "\f112"; }
+.flaticon-skipping-rope:before { content: "\f113"; }
+.flaticon-playing:before { content: "\f114"; }
+.flaticon-kids-1:before { content: "\f115"; }
+.flaticon-learning:before { content: "\f116"; }
+.flaticon-playing-1:before { content: "\f117"; }
+.flaticon-football-1:before { content: "\f118"; }
+.flaticon-studying:before { content: "\f119"; }
+.flaticon-kids-2:before { content: "\f11a"; }
+.flaticon-learning-1:before { content: "\f11b"; }
+.flaticon-baby-girl:before { content: "\f11c"; }
+.flaticon-baby-boy:before { content: "\f11d"; }
+.flaticon-block:before { content: "\f11e"; }
+.flaticon-baby:before { content: "\f11f"; }
+.flaticon-feeding-bottle:before { content: "\f120"; }
+.flaticon-block-1:before { content: "\f121"; }
+.flaticon-graduation-hat:before { content: "\f122"; }
+.flaticon-school:before { content: "\f123"; }
+.flaticon-calculator:before { content: "\f124"; }
+.flaticon-pen:before { content: "\f125"; }
+.flaticon-blackboard:before { content: "\f126"; }
+.flaticon-teacher:before { content: "\f127"; }
+.flaticon-walking-to-school:before { content: "\f128"; }
+.flaticon-books-stack-of-three:before { content: "\f129"; }
+.flaticon-open-book:before { content: "\f12a"; }
+.flaticon-open-book-1:before { content: "\f12b"; }
+.flaticon-kids-couple:before { content: "\f12c"; }
+.flaticon-children-1:before { content: "\f12d"; }
+.flaticon-maternity:before { content: "\f12e"; }
+.flaticon-baby-boy-1:before { content: "\f12f"; }
+.flaticon-smiling-baby:before { content: "\f130"; }
+.flaticon-abc-block:before { content: "\f131"; }
+.flaticon-baby-face:before { content: "\f132"; }
+.flaticon-feeding-bottle-1:before { content: "\f133"; }
+.flaticon-baby-food:before { content: "\f134"; }
+.flaticon-baby-food-1:before { content: "\f135"; }
+.flaticon-feeding:before { content: "\f136"; }
+.flaticon-food:before { content: "\f137"; }
+.flaticon-friendship:before { content: "\f138"; }
+.flaticon-family:before { content: "\f139"; }
+.flaticon-calendar-with-a-clock-time-tools:before { content: "\f13a"; }
+.flaticon-alarm-clock:before { content: "\f13b"; }
+.flaticon-help:before { content: "\f13c"; }
+.flaticon-conversation:before { content: "\f13d"; }
+.flaticon-conversation-1:before { content: "\f13e"; }
+.flaticon-cubes:before { content: "\f13f"; }
+.flaticon-cubes-1:before { content: "\f140"; }
+.flaticon-teddy-bear-1:before { content: "\f141"; }
+.flaticon-crayon:before { content: "\f142"; }
+.flaticon-notebook:before { content: "\f143"; }
+.flaticon-jigsaw:before { content: "\f144"; }
+.flaticon-bib:before { content: "\f145"; }
+.flaticon-watercolor:before { content: "\f146"; }

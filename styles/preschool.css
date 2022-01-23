@@ -1,0 +1,233 @@
+/* 
+Template Name: ABC Tots
+Preschool Color scheme 
+/*
+
+/* Dark Red */
+
+.sea,
+.jumbo-heading,
+.dot1,
+.dot2,
+.nav-tabs .nav-link.active,
+.nav-tabs .nav-link:hover,
+.owl-prev i:hover,
+.owl-next i:hover,
+.jumbotron .breadcrumb,
+.accordion .card-link.collapsed,
+.btn-quaternary,
+.badge-default,
+.bg-secondary,
+.dropdown-menu,
+.btn-primary,
+.back-to-top i:hover,
+.alert-secondary,
+.badge-secondary,
+.nav-pills .nav-link.active,
+.nav-pills .nav-link:hover,
+.nav-pills .nav-link:focus,
+.nav-pills .show>.nav-link,
+.page-link:hover,
+.page-link.active,
+.btn-secondary:hover,
+.btn-secondary:focus {
+	background-color: #ac1038;
+}
+
+.bg-secondary {
+	background-color: #ac1038!important;
+}
+
+.list-group-item.active,
+.subtitle:after,
+ul.social-media i,
+.widget1 .colored-icons i,
+.navbar .dropdown-item:hover,
+.navbar .dropdown-item:focus,
+.navbar .nav-link:focus,
+.navbar .nav-item:hover,
+.navbar .nav-item .active,
+.team-style2 .img-box a:hover li,
+.section-heading h2:before,
+.navbar-brand i,
+.serviceBox:hover .service-icon i,
+a,
+blockquote:after,
+blockquote:before,
+.testimonial .description:before,
+ul.custom li:before,
+.testimonial .content:before,
+.owl-theme .owl-nav [class*='owl-']:hover,
+.team-style2 span,
+.colored-nav .top-bar .contact-details i,
+.colored-nav .top-bar a {
+	color: #ac1038;
+}
+
+.testimonial-pic>img,
+.text-secondary {
+	color: #ac1038!important;
+}
+
+.subtitle,
+p.subtitle,
+.custom-link,
+.form-control:focus,
+.btn-primary,
+.list-group-item.active,
+.alert-secondary,
+.team-style2 .img-box .social-icons li {
+	border-color: #ac1038;
+}
+
+#footer-divider.secondary path,
+#divider.secondary path {
+	fill: #ac1038;
+}
+
+#waveHorizontal1,
+#waveHorizontal2,
+#waveHorizontal3 {
+	background: url("data:image/svg+xml,%3Csvg version='1.1' id='waveHorizontal1' class='wave1' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='350px' height='20px' viewBox='0 0 350 20' enable-background='new 0 0 350 20' xml:space='preserve'%3E%3Cpath fill=' %23ac1038' d='M0,17.1C29.9,17.1,57.8,0,87.5,0c30.2,0,58.1,17.1,87.1,17.1c29.9,0,57.8-17.1,87.7-17.1 s57.8,17.1,87.7,17.1V20H0V17.1z'/%3E%3C/svg%3E%0A");	-webkit-animation-delay: -4s;
+}
+
+/* Green */
+
+#divider.primary path {
+	fill: #0c9673;
+}
+
+.accordion .card-link:hover,
+.accordion .card-link,
+.btn-secondary,
+.btn-secondary:not(:disabled):not(.disabled):active:focus,
+.top-bar,
+.sidebar-header,
+.btn-quaternary:hover,
+.btn-quaternary:focus,
+.btn-tertiary,
+.accordion-cards .card-body,
+.navbar-toggler:hover,
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:not(:disabled):not(.disabled):active,
+.back-to-top i,
+.accordion-cards .card-header,
+.page-item.active .page-link,
+.progress-bar,
+.service-hover-box .service-hover-caption,
+.page-link,
+footer,
+.nav-pills .nav-link {
+	background-color: #0c9673;
+}
+
+.bg-primary {
+	background-color: #0c9673!important;
+}
+
+.colored-nav .navbar{
+	background-color: #0c9673!important;
+}
+
+.team-style2 .social-icons i:hover,
+.team-style1:before,
+.bg-tertiary .owl-prev i,
+.bg-tertiary .owl-next i,
+.bg-secondary a:hover,
+.bg-secondary a:focus,
+.serviceBox1 .title a:hover,
+.text-tertiary,
+.icon-box i,
+.blog-card .post-info:before,
+.color1,
+.header-text:before,
+ul.social-media li:hover i,
+.navbar-brand span,
+.colored-nav .top-bar .contact-details i,
+.colored-nav .top-bar a:hover {
+	color: #0c9673;
+}
+
+.text-primary {
+	color: #0c9673!important;
+}
+
+.team-style1 .post,
+.blog-card .card-img-top:hover,
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:not(:disabled):not(.disabled):active,
+.page-item.active .page-link {
+	border-color: #0c9673;
+}
+
+/* Blue */
+
+.nav-tabs .nav-link,
+.owl-prev i,
+.owl-next i,
+.table thead,
+.gallery-thumb i,
+.navbar .nav-item:hover,
+.blog-box .date,
+.btn-quaternary,
+.btn-tertiary:hover,
+.bg-tertiary,
+.dropdown-item:focus,
+.dropdown-item:hover,
+.dropdown-item.active,
+.accordion-cards .card-header:hover,
+.accordion-cards .card-header:focus,
+.badge-primary,
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span,
+.alert-primary,
+.list-group-item-action:focus,
+.list-group-item-action:hover {
+	background-color: #0C7395;
+}
+
+.bg-secondary .subtitle:after,
+.contact-icon .top-icon,
+.serviceBox2 .service-icon a,
+.text-tertiary,
+.contact-image i,
+.team-style1 .social li a:hover,
+.serviceBox .service-icon i,
+ul.checkmark li:before,
+.colored-icons i,
+a:hover,
+a:focus,
+.team-style1:hover .social li a:hover,
+a h5:hover,
+a h4:hover {
+	color: #0C7395;
+}
+
+.bg-secondary .subtitle,
+.gallery-thumb img,
+.contact-form3.bg-secondary .form-control:focus,
+.custom-link:hover,
+.custom-link:focus,
+.form-control,
+.alert-primary,
+.navbar .nav-item.active,
+.list-group-item-action:focus,
+.list-group-item-action:hover {
+	border-color: #0C7395;
+}
+
+#divider.tertiary path {
+	fill: #0C7395;
+}
+
+/* Light links */
+
+.top-bar .contact-details i,
+.top-bar a:hover,
+.bg-secondary a,
+footer .social-list li i {
+	color: #c0efe3;
+}
+		
